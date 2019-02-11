@@ -59,9 +59,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\scripts\Asteroids.cs" />
+    <Compile Include="Assets\scripts\BulletController.cs" />
+    <Compile Include="Assets\scripts\GameController.cs" />
     <Compile Include="Assets\scripts\mover.cs" />
     <Compile Include="Assets\scripts\movmentDisable.cs" />
-    <Compile Include="Assets\scripts\tank mode.cs" />
+    <Compile Include="Assets\scripts\onExitDestroyShip.cs" />
+    <Compile Include="Assets\scripts\tankMode.cs" />
     <None Include="Assets\Spritesheet\RTSpack_sheet.xml" />
     <None Include="Assets\Spritesheet\RTSpack_sheet@2.xml" />
     <None Include="Assets\Spritesheet\topdownPack_sheet@2.xml" />
